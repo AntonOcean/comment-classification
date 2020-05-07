@@ -10,7 +10,7 @@ import {HttpClient, HttpHeaders} from '@angular/common/http';
 
 
 export class AppComponent {
-  title = 'untitled4';
+  title = 'app';
   classifications = [
     {
       tag_name: '0.0',
